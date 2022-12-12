@@ -76,7 +76,9 @@ footer {
 }
 
 .hero-text {
+    color: #E5E7EB;
     width: 60%;
+    margin-top: 0;
 }
 
 .hero-cta {
@@ -163,6 +165,10 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.cta-container p {
+    color: #E5E7EB;
 }
 
 .cta-container a {
